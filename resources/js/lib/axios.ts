@@ -1,19 +1,21 @@
-import axios from 'axios';
+/// <reference types="vite/client" />
 
-const baseURL = import.meta.env.VITE_API_BASE_URL || '/api';
+import axios from "axios";
+
+const baseURL = import.meta.env.VITE_API_BASE_URL || "/api";
 
 export const api = axios.create({
   baseURL,
   headers: {
-    'Accept': 'application/json',
-    'Content-Type': 'application/json',
-    'X-Requested-With': 'XMLHttpRequest',
+    Accept: "application/json",
+    "Content-Type": "application/json",
+    "X-Requested-With": "XMLHttpRequest",
   },
 });
 
 // Inject token from localStorage on every request
 api.interceptors.request.use((config) => {
-  const token = localStorage.getItem('auth_token');
+  const token = localStorage.getItem("auth_token");
   if (token) config.headers.Authorization = `Bearer ${token}`;
   return config;
 });
@@ -22,10 +24,13 @@ api.interceptors.request.use((config) => {
 api.interceptors.response.use(
   (res) => res,
   (err) => {
-    if (err.response?.status === 401 && !window.location.pathname.startsWith('/login')) {
-      localStorage.removeItem('auth_token');
-      localStorage.removeItem('auth_user');
-      window.location.href = '/login';
+    if (
+      err.response?.status === 401 &&
+      !window.location.pathname.startsWith("/login")
+    ) {
+      localStorage.removeItem("auth_token");
+      localStorage.removeItem("auth_user");
+      window.location.href = "/login";
     }
     return Promise.reject(err);
   },
