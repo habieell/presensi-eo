@@ -74,3 +74,384 @@
 [2026-05-05 19:00:02] local.INFO: WA disabled - skipped {"outbox_id":106} 
 [2026-05-05 19:00:02] local.INFO: WA disabled - skipped {"outbox_id":107} 
 [2026-05-05 19:00:02] local.INFO: WA disabled - skipped {"outbox_id":108} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":109} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":110} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":111} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":112} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":113} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":114} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":115} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":116} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":117} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":118} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":119} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":120} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":121} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":122} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":123} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":124} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":125} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":126} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":127} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":128} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":129} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":130} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":131} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":132} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":133} 
+[2026-05-05 20:45:01] local.INFO: WA disabled - skipped {"outbox_id":134} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":135} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":136} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":137} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":138} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":139} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":140} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":141} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":142} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":143} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":144} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":145} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":146} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":147} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":148} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":149} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":150} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":151} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":152} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":153} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":154} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":155} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":156} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":157} 
+[2026-05-05 20:45:02] local.INFO: WA disabled - skipped {"outbox_id":158} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":159} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":160} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":161} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":162} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":163} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":164} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":165} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":166} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":167} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":168} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":169} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":170} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":171} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":172} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":173} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":174} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":175} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":176} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":177} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":178} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":179} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":180} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":181} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":182} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":183} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":184} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":185} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":186} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":187} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":188} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":189} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":190} 
+[2026-05-05 21:00:04] local.INFO: WA disabled - skipped {"outbox_id":191} 
+[2026-05-05 21:00:05] local.INFO: WA disabled - skipped {"outbox_id":192} 
+[2026-05-05 21:00:05] local.INFO: WA disabled - skipped {"outbox_id":193} 
+[2026-05-05 21:00:05] local.INFO: WA disabled - skipped {"outbox_id":194} 
+[2026-05-05 21:00:05] local.INFO: WA disabled - skipped {"outbox_id":195} 
+[2026-05-05 21:00:05] local.INFO: WA disabled - skipped {"outbox_id":196} 
+[2026-05-05 21:00:05] local.INFO: WA disabled - skipped {"outbox_id":197} 
+[2026-05-05 21:00:05] local.INFO: WA disabled - skipped {"outbox_id":198} 
+[2026-05-05 21:00:05] local.INFO: WA disabled - skipped {"outbox_id":199} 
+[2026-05-05 21:00:05] local.INFO: WA disabled - skipped {"outbox_id":200} 
+[2026-05-05 21:00:05] local.INFO: WA disabled - skipped {"outbox_id":201} 
+[2026-05-05 21:00:05] local.INFO: WA disabled - skipped {"outbox_id":202} 
+[2026-05-05 21:00:05] local.INFO: WA disabled - skipped {"outbox_id":203} 
+[2026-05-05 21:00:05] local.INFO: WA disabled - skipped {"outbox_id":204} 
+[2026-05-05 21:00:05] local.INFO: WA disabled - skipped {"outbox_id":205} 
+[2026-05-05 21:00:05] local.INFO: WA disabled - skipped {"outbox_id":206} 
+[2026-05-05 21:00:05] local.INFO: WA disabled - skipped {"outbox_id":207} 
+[2026-05-05 21:00:05] local.INFO: WA disabled - skipped {"outbox_id":208} 
+[2026-05-05 21:16:30] local.ERROR: Vite manifest not found at: D:\freelance\jomek\Presensi-tsxlaravel-v2\public\build/manifest.json (View: D:\freelance\jomek\Presensi-tsxlaravel-v2\resources\views\app.blade.php) {"exception":"[object] (Illuminate\\View\\ViewException(code: 0): Vite manifest not found at: D:\\freelance\\jomek\\Presensi-tsxlaravel-v2\\public\\build/manifest.json (View: D:\\freelance\\jomek\\Presensi-tsxlaravel-v2\\resources\\views\\app.blade.php) at D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Vite.php:946)
+[stacktrace]
+#0 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(59): Illuminate/View/Engines/CompilerEngine->handleViewException(Object(Illuminate/Foundation/ViteManifestNotFoundException), 1)
+#1 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(76): Illuminate/View/Engines/PhpEngine->evaluatePath('D://freelance//jo...', Array)
+#2 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/View/View.php(208): Illuminate/View/Engines/CompilerEngine->get('D://freelance//jo...', Array)
+#3 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/View/View.php(191): Illuminate/View/View->getContents()
+#4 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/View/View.php(160): Illuminate/View/View->renderContents()
+#5 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Http/Response.php(78): Illuminate/View/View->render()
+#6 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Http/Response.php(34): Illuminate/Http/Response->setContent(Object(Illuminate/View/View))
+#7 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Routing/Router.php(939): Illuminate/Http/Response->__construct(Object(Illuminate/View/View), 200, Array)
+#8 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Routing/Router.php(906): Illuminate/Routing/Router::toResponse(Object(Illuminate/Http/Request), Object(Illuminate/View/View))
+#9 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Routing/Router.php(821): Illuminate/Routing/Router->prepareResponse(Object(Illuminate/Http/Request), Object(Illuminate/View/View))
+#10 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(180): Illuminate/Routing/Router->{closure:Illuminate/Routing/Router::runRouteWithinStack():821}(Object(Illuminate/Http/Request))
+#11 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(50): Illuminate/Pipeline/Pipeline->{closure:Illuminate/Pipeline/Pipeline::prepareDestination():178}(Object(Illuminate/Http/Request))
+#12 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Routing/Middleware/SubstituteBindings->handle(Object(Illuminate/Http/Request), Object(Closure))
+#13 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(87): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#14 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Foundation/Http/Middleware/VerifyCsrfToken->handle(Object(Illuminate/Http/Request), Object(Closure))
+#15 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(48): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#16 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/View/Middleware/ShareErrorsFromSession->handle(Object(Illuminate/Http/Request), Object(Closure))
+#17 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(120): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#18 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(63): Illuminate/Session/Middleware/StartSession->handleStatefulRequest(Object(Illuminate/Http/Request), Object(Illuminate/Session/Store), Object(Closure))
+#19 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Session/Middleware/StartSession->handle(Object(Illuminate/Http/Request), Object(Closure))
+#20 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(36): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#21 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse->handle(Object(Illuminate/Http/Request), Object(Closure))
+#22 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(74): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#23 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Cookie/Middleware/EncryptCookies->handle(Object(Illuminate/Http/Request), Object(Closure))
+#24 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(137): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#25 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Routing/Router.php(821): Illuminate/Pipeline/Pipeline->then(Object(Closure))
+#26 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Routing/Router.php(800): Illuminate/Routing/Router->runRouteWithinStack(Object(Illuminate/Routing/Route), Object(Illuminate/Http/Request))
+#27 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Routing/Router.php(764): Illuminate/Routing/Router->runRoute(Object(Illuminate/Http/Request), Object(Illuminate/Routing/Route))
+#28 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Routing/Router.php(753): Illuminate/Routing/Router->dispatchToRoute(Object(Illuminate/Http/Request))
+#29 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(200): Illuminate/Routing/Router->dispatch(Object(Illuminate/Http/Request))
+#30 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(180): Illuminate/Foundation/Http/Kernel->{closure:Illuminate/Foundation/Http/Kernel::dispatchToRouter():197}(Object(Illuminate/Http/Request))
+#31 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate/Pipeline/Pipeline->{closure:Illuminate/Pipeline/Pipeline::prepareDestination():178}(Object(Illuminate/Http/Request))
+#32 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php(31): Illuminate/Foundation/Http/Middleware/TransformsRequest->handle(Object(Illuminate/Http/Request), Object(Closure))
+#33 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull->handle(Object(Illuminate/Http/Request), Object(Closure))
+#34 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#35 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php(51): Illuminate/Foundation/Http/Middleware/TransformsRequest->handle(Object(Illuminate/Http/Request), Object(Closure))
+#36 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Foundation/Http/Middleware/TrimStrings->handle(Object(Illuminate/Http/Request), Object(Closure))
+#37 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Http/Middleware/ValidatePostSize.php(27): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#38 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Http/Middleware/ValidatePostSize->handle(Object(Illuminate/Http/Request), Object(Closure))
+#39 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php(109): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#40 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance->handle(Object(Illuminate/Http/Request), Object(Closure))
+#41 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php(61): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#42 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Http/Middleware/HandleCors->handle(Object(Illuminate/Http/Request), Object(Closure))
+#43 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Http/Middleware/TrustProxies.php(58): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#44 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Http/Middleware/TrustProxies->handle(Object(Illuminate/Http/Request), Object(Closure))
+#45 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/InvokeDeferredCallbacks.php(22): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#46 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Foundation/Http/Middleware/InvokeDeferredCallbacks->handle(Object(Illuminate/Http/Request), Object(Closure))
+#47 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Http/Middleware/ValidatePathEncoding.php(26): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#48 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Http/Middleware/ValidatePathEncoding->handle(Object(Illuminate/Http/Request), Object(Closure))
+#49 D:/freelance/jomek/Presensi-tsxlaravel-v2/app/Http/Middleware/Cors.php(17): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#50 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): App/Http/Middleware/Cors->handle(Object(Illuminate/Http/Request), Object(Closure))
+#51 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(137): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#52 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(175): Illuminate/Pipeline/Pipeline->then(Object(Closure))
+#53 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate/Foundation/Http/Kernel->sendRequestThroughRouter(Object(Illuminate/Http/Request))
+#54 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate/Foundation/Http/Kernel->handle(Object(Illuminate/Http/Request))
+#55 D:/freelance/jomek/Presensi-tsxlaravel-v2/public/index.php(17): Illuminate/Foundation/Application->handleRequest(Object(Illuminate/Http/Request))
+#56 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php(23): require_once('D://freelance//jo...')
+#57 {main}
+
+[previous exception] [object] (Illuminate\\Foundation\\ViteManifestNotFoundException(code: 0): Vite manifest not found at: D:\\freelance\\jomek\\Presensi-tsxlaravel-v2\\public\\build/manifest.json at D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Vite.php:946)
+[stacktrace]
+#0 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Vite.php(384): Illuminate/Foundation/Vite->manifest('build')
+#1 D:/freelance/jomek/Presensi-tsxlaravel-v2/storage/framework/views/c518f94a50d73543c6a4d5c5b239803e.php(10): Illuminate/Foundation/Vite->__invoke(Object(Illuminate/Support/Collection))
+#2 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(123): require('D://freelance//jo...')
+#3 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(124): Illuminate/Filesystem/Filesystem::{closure:Illuminate/Filesystem/Filesystem::getRequire():120}()
+#4 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(57): Illuminate/Filesystem/Filesystem->getRequire('D://freelance//jo...', Array)
+#5 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(76): Illuminate/View/Engines/PhpEngine->evaluatePath('D://freelance//jo...', Array)
+#6 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/View/View.php(208): Illuminate/View/Engines/CompilerEngine->get('D://freelance//jo...', Array)
+#7 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/View/View.php(191): Illuminate/View/View->getContents()
+#8 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/View/View.php(160): Illuminate/View/View->renderContents()
+#9 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Http/Response.php(78): Illuminate/View/View->render()
+#10 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Http/Response.php(34): Illuminate/Http/Response->setContent(Object(Illuminate/View/View))
+#11 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Routing/Router.php(939): Illuminate/Http/Response->__construct(Object(Illuminate/View/View), 200, Array)
+#12 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Routing/Router.php(906): Illuminate/Routing/Router::toResponse(Object(Illuminate/Http/Request), Object(Illuminate/View/View))
+#13 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Routing/Router.php(821): Illuminate/Routing/Router->prepareResponse(Object(Illuminate/Http/Request), Object(Illuminate/View/View))
+#14 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(180): Illuminate/Routing/Router->{closure:Illuminate/Routing/Router::runRouteWithinStack():821}(Object(Illuminate/Http/Request))
+#15 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(50): Illuminate/Pipeline/Pipeline->{closure:Illuminate/Pipeline/Pipeline::prepareDestination():178}(Object(Illuminate/Http/Request))
+#16 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Routing/Middleware/SubstituteBindings->handle(Object(Illuminate/Http/Request), Object(Closure))
+#17 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(87): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#18 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Foundation/Http/Middleware/VerifyCsrfToken->handle(Object(Illuminate/Http/Request), Object(Closure))
+#19 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(48): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#20 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/View/Middleware/ShareErrorsFromSession->handle(Object(Illuminate/Http/Request), Object(Closure))
+#21 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(120): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#22 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(63): Illuminate/Session/Middleware/StartSession->handleStatefulRequest(Object(Illuminate/Http/Request), Object(Illuminate/Session/Store), Object(Closure))
+#23 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Session/Middleware/StartSession->handle(Object(Illuminate/Http/Request), Object(Closure))
+#24 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(36): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#25 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse->handle(Object(Illuminate/Http/Request), Object(Closure))
+#26 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(74): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#27 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Cookie/Middleware/EncryptCookies->handle(Object(Illuminate/Http/Request), Object(Closure))
+#28 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(137): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#29 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Routing/Router.php(821): Illuminate/Pipeline/Pipeline->then(Object(Closure))
+#30 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Routing/Router.php(800): Illuminate/Routing/Router->runRouteWithinStack(Object(Illuminate/Routing/Route), Object(Illuminate/Http/Request))
+#31 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Routing/Router.php(764): Illuminate/Routing/Router->runRoute(Object(Illuminate/Http/Request), Object(Illuminate/Routing/Route))
+#32 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Routing/Router.php(753): Illuminate/Routing/Router->dispatchToRoute(Object(Illuminate/Http/Request))
+#33 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(200): Illuminate/Routing/Router->dispatch(Object(Illuminate/Http/Request))
+#34 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(180): Illuminate/Foundation/Http/Kernel->{closure:Illuminate/Foundation/Http/Kernel::dispatchToRouter():197}(Object(Illuminate/Http/Request))
+#35 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate/Pipeline/Pipeline->{closure:Illuminate/Pipeline/Pipeline::prepareDestination():178}(Object(Illuminate/Http/Request))
+#36 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php(31): Illuminate/Foundation/Http/Middleware/TransformsRequest->handle(Object(Illuminate/Http/Request), Object(Closure))
+#37 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull->handle(Object(Illuminate/Http/Request), Object(Closure))
+#38 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#39 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php(51): Illuminate/Foundation/Http/Middleware/TransformsRequest->handle(Object(Illuminate/Http/Request), Object(Closure))
+#40 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Foundation/Http/Middleware/TrimStrings->handle(Object(Illuminate/Http/Request), Object(Closure))
+#41 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Http/Middleware/ValidatePostSize.php(27): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#42 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Http/Middleware/ValidatePostSize->handle(Object(Illuminate/Http/Request), Object(Closure))
+#43 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php(109): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#44 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance->handle(Object(Illuminate/Http/Request), Object(Closure))
+#45 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Http/Middleware/HandleCors.php(61): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#46 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Http/Middleware/HandleCors->handle(Object(Illuminate/Http/Request), Object(Closure))
+#47 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Http/Middleware/TrustProxies.php(58): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#48 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Http/Middleware/TrustProxies->handle(Object(Illuminate/Http/Request), Object(Closure))
+#49 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/InvokeDeferredCallbacks.php(22): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#50 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Foundation/Http/Middleware/InvokeDeferredCallbacks->handle(Object(Illuminate/Http/Request), Object(Closure))
+#51 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Http/Middleware/ValidatePathEncoding.php(26): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#52 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): Illuminate/Http/Middleware/ValidatePathEncoding->handle(Object(Illuminate/Http/Request), Object(Closure))
+#53 D:/freelance/jomek/Presensi-tsxlaravel-v2/app/Http/Middleware/Cors.php(17): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#54 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(219): App/Http/Middleware/Cors->handle(Object(Illuminate/Http/Request), Object(Closure))
+#55 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(137): Illuminate/Pipeline/Pipeline->{closure:{closure:Illuminate/Pipeline/Pipeline::carry():194}:195}(Object(Illuminate/Http/Request))
+#56 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(175): Illuminate/Pipeline/Pipeline->then(Object(Closure))
+#57 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(144): Illuminate/Foundation/Http/Kernel->sendRequestThroughRouter(Object(Illuminate/Http/Request))
+#58 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1220): Illuminate/Foundation/Http/Kernel->handle(Object(Illuminate/Http/Request))
+#59 D:/freelance/jomek/Presensi-tsxlaravel-v2/public/index.php(17): Illuminate/Foundation/Application->handleRequest(Object(Illuminate/Http/Request))
+#60 D:/freelance/jomek/Presensi-tsxlaravel-v2/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php(23): require_once('D://freelance//jo...')
+#61 {main}
+"} 
+[2026-05-05 21:22:03] local.INFO: WA disabled - skipped {"outbox_id":209} 
+[2026-05-05 21:30:01] local.INFO: WA disabled - skipped {"outbox_id":210} 
+[2026-05-05 21:30:01] local.INFO: WA disabled - skipped {"outbox_id":211} 
+[2026-05-05 21:30:01] local.INFO: WA disabled - skipped {"outbox_id":212} 
+[2026-05-05 21:30:01] local.INFO: WA disabled - skipped {"outbox_id":213} 
+[2026-05-05 21:30:01] local.INFO: WA disabled - skipped {"outbox_id":214} 
+[2026-05-05 21:30:01] local.INFO: WA disabled - skipped {"outbox_id":215} 
+[2026-05-05 21:30:01] local.INFO: WA disabled - skipped {"outbox_id":216} 
+[2026-05-05 21:30:01] local.INFO: WA disabled - skipped {"outbox_id":217} 
+[2026-05-05 21:30:01] local.INFO: WA disabled - skipped {"outbox_id":218} 
+[2026-05-05 21:30:01] local.INFO: WA disabled - skipped {"outbox_id":219} 
+[2026-05-05 21:30:01] local.INFO: WA disabled - skipped {"outbox_id":220} 
+[2026-05-05 21:30:01] local.INFO: WA disabled - skipped {"outbox_id":221} 
+[2026-05-05 21:30:01] local.INFO: WA disabled - skipped {"outbox_id":222} 
+[2026-05-05 21:30:01] local.INFO: WA disabled - skipped {"outbox_id":223} 
+[2026-05-05 21:30:01] local.INFO: WA disabled - skipped {"outbox_id":224} 
+[2026-05-05 21:30:01] local.INFO: WA disabled - skipped {"outbox_id":225} 
+[2026-05-05 21:30:01] local.INFO: WA disabled - skipped {"outbox_id":226} 
+[2026-05-05 21:30:01] local.INFO: WA disabled - skipped {"outbox_id":227} 
+[2026-05-05 21:30:01] local.INFO: WA disabled - skipped {"outbox_id":228} 
+[2026-05-05 21:30:01] local.INFO: WA disabled - skipped {"outbox_id":229} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":230} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":231} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":232} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":233} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":234} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":235} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":236} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":237} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":238} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":239} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":240} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":241} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":242} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":243} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":244} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":245} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":246} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":247} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":248} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":249} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":250} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":251} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":252} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":253} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":254} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":255} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":256} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":257} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":258} 
+[2026-05-05 21:30:02] local.INFO: WA disabled - skipped {"outbox_id":259} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":260} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":261} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":262} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":263} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":264} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":265} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":266} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":267} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":268} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":269} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":270} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":271} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":272} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":273} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":274} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":275} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":276} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":277} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":278} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":279} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":280} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":281} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":282} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":283} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":284} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":285} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":286} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":287} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":288} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":289} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":290} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":291} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":292} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":293} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":294} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":295} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":296} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":297} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":298} 
+[2026-05-05 21:45:03] local.INFO: WA disabled - skipped {"outbox_id":299} 
+[2026-05-05 21:45:04] local.INFO: WA disabled - skipped {"outbox_id":300} 
+[2026-05-05 21:45:04] local.INFO: WA disabled - skipped {"outbox_id":301} 
+[2026-05-05 21:45:04] local.INFO: WA disabled - skipped {"outbox_id":302} 
+[2026-05-05 21:45:04] local.INFO: WA disabled - skipped {"outbox_id":303} 
+[2026-05-05 21:45:04] local.INFO: WA disabled - skipped {"outbox_id":304} 
+[2026-05-05 21:45:04] local.INFO: WA disabled - skipped {"outbox_id":305} 
+[2026-05-05 21:45:04] local.INFO: WA disabled - skipped {"outbox_id":306} 
+[2026-05-05 21:45:04] local.INFO: WA disabled - skipped {"outbox_id":307} 
+[2026-05-05 21:45:04] local.INFO: WA disabled - skipped {"outbox_id":308} 
+[2026-05-05 21:45:04] local.INFO: WA disabled - skipped {"outbox_id":309} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":310} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":311} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":312} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":313} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":314} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":315} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":316} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":317} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":318} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":319} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":320} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":321} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":322} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":323} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":324} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":325} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":326} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":327} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":328} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":329} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":330} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":331} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":332} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":333} 
+[2026-05-05 22:00:02] local.INFO: WA disabled - skipped {"outbox_id":334} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":335} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":336} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":337} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":338} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":339} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":340} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":341} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":342} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":343} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":344} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":345} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":346} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":347} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":348} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":349} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":350} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":351} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":352} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":353} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":354} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":355} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":356} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":357} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":358} 
+[2026-05-05 22:00:03] local.INFO: WA disabled - skipped {"outbox_id":359} 
+[2026-05-05 22:02:48] local.INFO: WA disabled - skipped {"outbox_id":2} 
+[2026-05-05 22:02:57] local.INFO: WA disabled - skipped {"outbox_id":4} 
+[2026-05-05 22:04:01] local.INFO: WA disabled - skipped {"outbox_id":2} 
+[2026-05-05 22:04:03] local.INFO: WA disabled - skipped {"outbox_id":4} 

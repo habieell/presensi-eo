@@ -98,7 +98,7 @@ function NavItemAnimated({
       </AnimatePresence>
 
       {/* Indicator bar di atas */}
-      <AnimatePresence>
+      {/* <AnimatePresence>
         {isActive && (
           <motion.span
             layoutId="bottomnav-indicator-bar"
@@ -107,7 +107,7 @@ function NavItemAnimated({
             transition={SPRING}
           />
         )}
-      </AnimatePresence>
+      </AnimatePresence> */}
 
       {/* Icon dengan bounce */}
       <motion.span
